@@ -1,1 +1,1 @@
-sh "go build"
+sh "/usr/local/bin/go build"
