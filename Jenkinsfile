@@ -1,1 +1,1 @@
-script "go build"
+sh "go build"
