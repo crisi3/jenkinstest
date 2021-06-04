@@ -1,1 +1,1 @@
-go build
+script "go build"
